@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuantumSergio
 - 👀 I’m interested in quantum programming, python, databases, Web applications
 - 🌱 I’m currently learning, python, JavaScript y Java
-- 💞️ I’m looking to collaborate everything that has to do with quantum programming
+- 💞️ I’m looking to collaborate with everything that has to do with quantum programming, quantum computing
 - 📫 How to reach me, with a message here on github
 - I'm new here, i don´t know know how this works
 <!---
